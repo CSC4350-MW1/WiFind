@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845703648541",
+    "project_id": "wifind-7e1cc",
+    "storage_bucket": "wifind-7e1cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845703648541:android:0093ac2da4d0aff933fdf4",
+        "android_client_info": {
+          "package_name": "com.example.wifindmw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845703648541-f5gq8rtlj9qiihhardh7jurf102guv07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8t0HSdxFSDbWhdWqheINDl85mPR3TNno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845703648541-f5gq8rtlj9qiihhardh7jurf102guv07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

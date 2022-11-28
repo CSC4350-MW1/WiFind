@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WiFindMW1</string>
+    <string-array name="text">
+        <item> Price </item>
+        <item> Bandwidth </item>
+        <item> Duration </item>
+    </string-array>
+</resources>

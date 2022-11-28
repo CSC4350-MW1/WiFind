@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="RUsernameInput" type="id" />
+    <item name="RPasswordInput" type="id" />
+    <item name="RFirstNameInput" type="id" />
+    <item name="RLastNameInput" type="id" />
+    <item name="REmailInput" type="id" />
+    <item name="BRegButton" type="id" />
+</resources>
